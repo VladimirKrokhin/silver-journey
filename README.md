@@ -1,2 +1,3 @@
 # silver-journey
-Третье практическое задание по "Системам контроля версий..."
+
+EN: The third practice for "Version Control Systems..."
